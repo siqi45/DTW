@@ -1,0 +1,1 @@
+This repository contains Java code for implementing the Dynamic Time Warping (DTW) algorithm, a powerful technique for measuring the similarity between two temporal sequences. The code provides an efficient and flexible implementation of DTW, allowing users to compare various types of time series data.
